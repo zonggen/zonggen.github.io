@@ -4,3 +4,5 @@
 
 layout: home
 ---
+
+Welcome! I'm an undergraduate Computer Science student at University of Toronto. Currently I'm in my third year and interested in <b>Web Developement</b> and <b>Machine Learning</b>.
