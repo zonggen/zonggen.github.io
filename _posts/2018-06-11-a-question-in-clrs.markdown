@@ -2,6 +2,7 @@
 layout: post
 title:  "A Question in CLRS"
 tags: [ blog, clrs, algorithm ]
+comments: true
 ---
 
 This weekend I have been working on the *CSC263* assignment. There was one question regarding augmenting data structure that was on the *CLRS* I found interesting:

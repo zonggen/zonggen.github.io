@@ -2,6 +2,7 @@
 layout: post
 title:  "Fibonacci Closure"
 tags: [ go ]
+comments: true
 ---
 
 Referring to the [Go Tutorial](https://tour.golang.org/moretypes/25), *Go* has closures, which allows us to return functions that can access and *bound* to the variables outside of their bodies. Basically, the variable is distinct among different specific instance of closures.

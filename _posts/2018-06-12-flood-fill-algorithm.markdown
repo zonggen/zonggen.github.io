@@ -2,6 +2,7 @@
 layout: post
 title:  "Flood Fill Algorithm"
 tags: [ blog, algorithm ]
+comments: true
 ---
 
 Just want to make a note on the well-known **flood fill** algorithm.
