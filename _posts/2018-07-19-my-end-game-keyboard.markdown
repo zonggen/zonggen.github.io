@@ -19,4 +19,4 @@ Additional Keycaps:
 - Massdrop Topre PBT Space Bar ([https://www.massdrop.com/buy/topre-pbt-spacebar](https://www.massdrop.com/buy/topre-pbt-spacebar))
 - Artisan Keycap 'Trooper - Black Red' ([https://www.hotkeysproject.com/products/trooper-black-red](https://www.hotkeysproject.com/products/trooper-black-red))
 
-As of today (7/19/2018), the artisan keycap is still available on the website. It was shipped from Hongkong and took about 10 days to deliver (pretty satisfied about the shipping comparing to 3 months for the PFU one).
+As of today (7/19/2018), the artisan keycap is still available on the website. It was shipped from Hong Kong and took about 10 days to deliver (pretty satisfied about the shipping comparing to 3 months for the PFU one).
