@@ -9,6 +9,6 @@ So the exam period is over. I had a pretty busy week, *MAT235*, *CSC263* and *CS
 
 The question I've been thinking is: Django or Nodejs. Django is based on python, which is the language I have been studying and using in the past while javascript is relatively new to me. But I've heard so many good things about node, so the answer is trivial for me: nodejs next, and django afer that. For next project, it's most likely a dynamic website or anything relevant to backend developing.
 
- :airplane:
- :airplane:
- :airplane:
+&#128640;
+&#128640;
+&#128640;
