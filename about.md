@@ -4,13 +4,10 @@ title: About
 permalink: /about/
 ---
 
-This personal website is built with [Jekyll](https://jekyllrb.com/).
+Sleek is a modern Jekyll theme focused on speed performance & SEO best practices. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/) or simply read the guide on how to [get started](/getting-started)
 
-![Jekyll Logo]({{ "/assets/jekyll.png" | absolute_url }} "Jekyll Logo")
+You can find the source code for the Jekyll new theme at:
+[sleek](https://github.com/janczizikow/sleek)
 
-Source code for **this website** at GitHub:
-[zonggen](https://github.com/zonggen/zonggen.github.io)  
-Source code for **Minima** at GitHub:
-[minima](https://github.com/jekyll/minima)  
-Source code for **Jekyll** at GitHub:
-[jekyll](https://github.com/jekyll/jekyll)  
+You can find the source code for Jekyll at
+[jekyll](https://github.com/jekyll/jekyll)
