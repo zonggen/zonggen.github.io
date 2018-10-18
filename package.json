@@ -4,6 +4,7 @@
   "description": "Sleek is a modern Jekyll theme focused on speed performance & SEO best practices.",
   "main": "gulpfile.js",
   "dependencies": {
+    "babel-register": "^6.26.0",
     "fg-loadcss": "^1.3.1",
     "jquery": "^3.2.1",
     "lazysizes": "^4.0.1",
@@ -12,7 +13,7 @@
     "velocity-animate": "^1.5.0"
   },
   "devDependencies": {
-    "babel-core": "^6.26.0",
+    "babel-core": "^6.26.3",
     "babel-preset-es2015": "^6.24.1",
     "babelify": "^8.0.0",
     "browser-sync": "^2.18.13",
