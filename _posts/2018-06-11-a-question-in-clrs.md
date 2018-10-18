@@ -15,7 +15,7 @@ Insert *n* nodes to build an *AVL Tree* in *O(nlogn)* time, where each node has 
 
 Pseudocode:
 
-{% highlight python linenos %}
+{% highlight python %}
 def count-pairs (chords):
   # Takes O(nlogn) time since there are n chords
   # and each Insert operation in AVL Tree takes

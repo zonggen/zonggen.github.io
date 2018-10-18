@@ -9,7 +9,7 @@ Referring to the [Go Tutorial](https://tour.golang.org/moretypes/25), *Go* has c
 
 Here is an implementation of the function `fibonacci` that prints successive fibonacci numbers using a closure (from Go Tutorial exercise):
 
-{% highlight go linenos %}
+{% highlight go %}
 
 // fibonacci is a function that returns
 // a function that returns an int.

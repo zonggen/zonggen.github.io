@@ -8,7 +8,7 @@ featured-img: algorithm
 Just want to make a note on the well-known **flood fill** algorithm.
 
 **Recursive Implementation**
-{% highlight python linenos %}
+{% highlight python %}
 Flood-fill (node, target-color, replacement-color):
   If target-color is equal to replacement-color, return.
   If the color of node is not equal to target-color, return.
@@ -21,7 +21,7 @@ Flood-fill (node, target-color, replacement-color):
 {% endhighlight %}
 
 **Iterative Implementation**
-{% highlight python linenos %}
+{% highlight python %}
 Flood-fill (node, target-color, replacement-color):
   If target-color is equal to replacement-color, return.
   If color of node is not equal to target-color, return.
