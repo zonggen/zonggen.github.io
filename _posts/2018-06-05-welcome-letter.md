@@ -2,8 +2,8 @@
 layout: post
 title:  "Welcome Letter"
 date:   2018-06-05 15:28:53 -0400
-tags: blog
 featured-img: shane-rounce-205187
+categories: blog
 ---
 This is my first exercise of website development.  
 

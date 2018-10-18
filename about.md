@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-This personal website is built with [Jekyll](https://jekyllrb.com/) with [sleek theme](https://github.com/janczizikow/sleek)
+This personal website is built in [Jekyll](https://jekyllrb.com/) with [sleek theme](https://github.com/janczizikow/sleek)
 
 Source code for this website at GitHub:
 [zonggen](https://github.com/zonggen/zonggen.github.io).

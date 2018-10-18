@@ -22,7 +22,7 @@ navigation: # Navigation links
 tagline: >
   Hi there! I'm a current CS student and former Biomedical Science student. Let's talk!
 
-hero_img: posts/sleek_lg.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
+hero_img: posts/homepage_lg.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
 email: carpe.diem.allen@gmail.com # email for form submission
 
