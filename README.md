@@ -26,8 +26,8 @@
  
  Run:
  - `$ jekyll serve`
- 
-### Related links:
- - https://jekyllrb.com/docs/installation/ubuntu/
- - https://developer.fedoraproject.org/start/sw/web-app/jekyll.html
- - Original template: https://github.com/janczizikow/sleek
+
+## Related links:
+- https://jekyllrb.com/docs/installation/ubuntu/
+- https://developer.fedoraproject.org/start/sw/web-app/jekyll.html
+- Original template: https://github.com/janczizikow/sleek
