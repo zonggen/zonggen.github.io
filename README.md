@@ -17,6 +17,7 @@
  
  Run:
  - `$ jekyll serve`
+ - `Browse to http://localhost:4000`
  
  ### Fedora :
  Install dependencies:
@@ -26,6 +27,7 @@
  
  Run:
  - `$ jekyll serve`
+ - `Browse to http://localhost:4000`
 
 ## Related links:
 - https://jekyllrb.com/docs/installation/ubuntu/
