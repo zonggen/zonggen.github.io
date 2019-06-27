@@ -4,15 +4,22 @@ title: About
 permalink: /about/
 ---
 
-This personal website is built in [Jekyll](https://jekyllrb.com/) with [sleek theme](https://github.com/janczizikow/sleek)
+## Work Experience
+- 	Open Source Software Engineering Intern, Fedora CoreOS Team, Red Hat, May 2019 - Now
 
-Source code for this website at GitHub:
-[zonggen](https://github.com/zonggen/zonggen.github.io).
+## Education
 
-Source code for **Jekyll** at GitHub:
-[jekyll](https://github.com/jekyll/jekyll)  
+- Studied Biomedical Science in Xiamen University (厦门大学), China, 2012
+- Exchanged to Univerisity of Waterloo (UW), Canada, 2014
+- Graduated from UW, BSC, 2016
+- Graduated from XMU, BSC, 2016
+- Second degree in Computer Science in York Univeristy (YU), Jan. 2017
+- Admitted and Transferred to Computer Science in Univerisity of Toronto (UTSG), Sept. 2017 - Now
 
-You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/) or simply read the guide on how to [get started](/getting-started)
+## Academic award:
+- James Mason Academic Achievement Medal, York University, Winter 2017
 
-You can find the source code for Jekyll at
-[jekyll](https://github.com/jekyll/jekyll)
+## Language:
+- Chinese (Mandarin)
+- Korean
+- English
