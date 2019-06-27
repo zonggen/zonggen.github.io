@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Work Update #3"
+title:  "Note on #Git"
 categories: [ blog, work]
 featured-img: work-update-2
 ---
@@ -18,6 +18,3 @@ Pretty print the contents of the commit logs in a given format:
  - `git show --format=fuller FETCH_HEAD`
  - `git checkout <previous commit_id> <file_name>`
  - `git show --stat HEAD`
-
- References:
- - https://github.com/jlebon/files

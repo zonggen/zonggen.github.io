@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Fibonacci Closure"
+title:  "Fibonacci Closure in #Golang"
 categories: [ go ]
 featured-img: algorithm
 ---

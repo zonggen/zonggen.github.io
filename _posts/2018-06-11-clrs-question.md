@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "A Question in CLRS"
+title:  "CLRS Question"
 categories: [ blog, clrs, algorithm ]
 featured-img: algorithm
 ---

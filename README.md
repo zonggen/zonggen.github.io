@@ -21,9 +21,10 @@
  
  ### Fedora :
  Install dependencies:
- - `$ sudo dnf install ruby-devel`
+ - `$ sudo dnf install ruby ruby-devel @development-tools`
  - `$ gem install jekyll`
  - `$ gem install bundler -v 1.12`
+ - `$ bundle install`
  
  Run:
  - `$ jekyll serve`
