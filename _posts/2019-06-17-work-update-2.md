@@ -22,6 +22,3 @@ $ setfacl -R -m u:1000:rwx /path/to/github.com/coreos/coreos-assembler/
 $ setfacl -R -d -m u:1000:rwx /path/to/github.com/coreos/coreos-assembler/
 $ chcon -R system_u:object_r:container_file_t:s0 /path/to/github.com/coreos/coreos-assembler/
 ```
-
-Taking notes:
-- `ART` = `Automated Release Tooling`
