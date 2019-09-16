@@ -21,6 +21,7 @@ Similarities with other languages:
  - Haskell (Functional Programming Languages): Monads,Iterators, Closures, Memoiization (Lazy Evaluation)
  - Java (OOP): Traits (Interfaces), Generic Types
  - C++: Smart pointers
+ - C: Channel (Pipe)
 
 Reference:
  - [The Rust Programming Language](https://doc.rust-lang.org/book/title-page.html),
