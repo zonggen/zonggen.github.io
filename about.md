@@ -17,7 +17,10 @@ permalink: /about/
 - Admitted and Transferred to Computer Science in Univerisity of Toronto (UTSG), Sept. 2017 - Now
 
 ## Academic award:
+- Dean's List Scholar, University of Toronto, Summer 2018
 - James Mason Academic Achievement Medal, York University, Winter 2017
+- Dean's Honours List, University of Waterloo, Oct 2016
+- Term Dean's Honours List, University of Waterloo, May 2016
 
 ## Language:
 - Chinese (Mandarin)

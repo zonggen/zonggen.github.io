@@ -1,8 +1,8 @@
 # SITE CONFIGURATION
-title: Zonggen's Nomadic Life # your site title
+title: Zonggen's Blogging Website # your site title
 author: zonggen # You :P
 description: > # Meta description of Homepage
-  Zonggen's personal blogging website and lifestyle at U of T.
+  Zonggen's personal blogging website.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://zonggen.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -20,7 +20,8 @@ navigation: # Navigation links
   - {name: 'Contact', link: '/contact'}
 
 tagline: >
-  Hi there! I'm a current CS student and former Biomedical Science student. Let's talk!
+  Current Computer Science and former Biomedical Science student. Interested in cloud infrastructure
+   and cloud computing technologies.
 
 hero_img: posts/homepage_lg.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
