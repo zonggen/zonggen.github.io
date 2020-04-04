@@ -13,7 +13,7 @@
 
  Install `jekyll` and `bundler`:
  - `$ gem install jekyll`
- - `$ gem install bundler -v 1.12`
+ - `$ gem install bundler -v 12.3.3`
 
  Run:
  - `$ jekyll serve`
@@ -23,7 +23,7 @@
  Install dependencies:
  - `$ sudo dnf install ruby ruby-devel @development-tools`
  - `$ gem install jekyll`
- - `$ gem install bundler -v 1.12`
+ - `$ gem install bundler -v 12.3.3`
  - `$ bundle install`
 
  Run:
