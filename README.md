@@ -1,4 +1,5 @@
 # zonggen.github.io
+[![Build Status](https://travis-ci.com/zonggen/zonggen.github.io.svg?branch=master)](https://travis-ci.com/zonggen/zonggen.github.io)
 
 ## Installation
  ### Ubuntu :
