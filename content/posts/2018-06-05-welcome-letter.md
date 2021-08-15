@@ -18,4 +18,4 @@ Cheers!   &#9996;
 
 EDIT (2021-08-15):
 
-So I've decided to move to Hugo from Jekyll since I'm more familiar with Golang toolings and I never really understood how package management really works with Ruby and I didn't want to dive any deeper into it either.
+So I've decided to move to Hugo from Jekyll since I'm more familiar with Golang toolings now, plus I never really understood how package management really works in Ruby. Resolving dependencies in Jekyll last time took me hours because sometime it takes more than a simple version bump and I find Hugo builds faster and much easier to use.
